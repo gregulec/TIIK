@@ -1,0 +1,17 @@
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\bin\Debug\TIIK.exe.config
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\bin\Debug\TIIK.exe
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\bin\Debug\TIIK.pdb
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK.csprojAssemblyReference.cache
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\MainPage.g.cs
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\MainWindow.g.cs
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\App.g.cs
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK_MarkupCompile.cache
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK_MarkupCompile.lref
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\MainPage.baml
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\MainWindow.baml
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK.g.resources
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK.Properties.Resources.resources
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK.csproj.GenerateResource.cache
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK.csproj.CoreCompileInputs.cache
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK.exe
+C:\Users\Agnieszka\source\repos\TIIK\TIIK\obj\Debug\TIIK.pdb
